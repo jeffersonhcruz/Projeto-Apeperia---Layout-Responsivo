@@ -1,2 +1,2 @@
-# Projeto Apeperia - Layout Responsivo
- Curso de HTML | CSS | Responsividade | Acessibilidade
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
